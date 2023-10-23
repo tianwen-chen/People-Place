@@ -41,7 +41,7 @@ const MainNavigation = props => {
                 </nav>
             </MainHeader>
         </React.Fragment>
-    )
-}
+    );
+};
 
 export default MainNavigation;
